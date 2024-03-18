@@ -391,7 +391,7 @@ html:not(.blogapp) #block-selector-button-custom-table:before {
     .custom-table-block[data-mobile-styles=stacked] tbody td:before,
     .custom-table-block[data-mobile-styles=horizontScroll] tbody td:before {
         vertical-align: middle;
-        padding: 10px;
+        padding: 0px;
         display: table-cell;
         width: 50%;
         margin: 0px
