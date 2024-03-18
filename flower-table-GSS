@@ -149,7 +149,7 @@ html:not(.blogapp) #block-selector-button-custom-table:before {
     font-size: inherit;
     margin: 0px;
     overflow: visible;
-    padding: .5em 1em;
+    padding: 0px;
     background-color: transparent;
     vertical-align: middle
 }
