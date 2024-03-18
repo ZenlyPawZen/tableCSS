@@ -147,7 +147,7 @@ html:not(.blogapp) #block-selector-button-custom-table:before {
 .custom-table-block td {
     border-width: 0 0 0 1px;
     font-size: inherit;
-    margin: 0;
+    margin: 0px;
     overflow: visible;
     padding: .5em 1em;
     background-color: transparent;
@@ -165,7 +165,7 @@ html:not(.blogapp) #block-selector-button-custom-table:before {
 .custom-table-block th {
     border-width: 0 0 0 1px;
     font-size: inherit;
-    margin: 0;
+    margin: 0px;
     overflow: visible;
     padding: .5em 1em;
     position: relative;
@@ -394,7 +394,7 @@ html:not(.blogapp) #block-selector-button-custom-table:before {
         padding: 10px;
         display: table-cell;
         width: 50%;
-        margin: 0
+        margin: 0px
     }
 
 .s2 table-cell table-cell-1 img {
@@ -409,9 +409,10 @@ object-fit: cover;
     .custom-table-block[data-mobile-styles=true] tbody td img,
     .custom-table-block[data-mobile-styles=stacked] tbody td img,
     .custom-table-block[data-mobile-styles=horizontScroll] tbody td img {
-        margin: 0;
+        margin: 0px;
         height: 100%;
-        width: 100%
+        width: 100%;
+        padding: 0px;
     }
 
     .custom-table-block[data-mobile-styles=true] tbody td:before,
