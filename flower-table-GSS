@@ -114,7 +114,7 @@ html:not(.blogapp) #block-selector-button-custom-table:before {
 }
 
 .custom-table-block.custom-table-block-center {
-    margin: auto
+    margin: 1px;
 }
 
 .custom-table-block.custom-table-block-right {
@@ -480,7 +480,7 @@ object-fit: cover;
         display: flex;
         align-self: stretch;
         white-space: normal;
-        padding: 0
+        padding: 0px;
     }
 
     .custom-table-block[data-mobile-styles=horizontScroll] tbody td:last-child {
