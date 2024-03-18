@@ -136,7 +136,8 @@ html:not(.blogapp) #block-selector-button-custom-table:before {
     width: 100%;
     object-fit: cover;
     height: 100%;
-    margin: 0
+    margin: 0px;
+    padding: 0px
 }
 
 .custom-table-block tr {
@@ -399,7 +400,8 @@ html:not(.blogapp) #block-selector-button-custom-table:before {
 .s2 table-cell table-cell-1 img {
 width: 100%;
 height: 100%;
-margin: 0;
+margin: 0px;
+padding: 0px;
 object-fit: cover;
 }
 
@@ -408,8 +410,8 @@ object-fit: cover;
     .custom-table-block[data-mobile-styles=stacked] tbody td img,
     .custom-table-block[data-mobile-styles=horizontScroll] tbody td img {
         margin: 0;
-        height: 80px;
-        width: 80px
+        height: 100%;
+        width: 100%
     }
 
     .custom-table-block[data-mobile-styles=true] tbody td:before,
