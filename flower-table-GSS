@@ -133,11 +133,10 @@ html:not(.blogapp) #block-selector-button-custom-table:before {
 
 .custom-table-block img {
     display: block;
-    max-width: 120px;
-    min-width: 120px;
-    object-fit: contain;
     width: 100%;
-    margin: auto
+    object-fit: cover;
+    height: 100%;
+    margin: 0
 }
 
 .custom-table-block tr {
