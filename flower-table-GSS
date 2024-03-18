@@ -118,7 +118,7 @@ html:not(.blogapp) #block-selector-button-custom-table:before {
 }
 
 .custom-table-block.custom-table-block-right {
-    margin: auto 0 auto auto
+    margin: 1px;
 }
 
 .custom-table-block.custom-table-block-center-content {
