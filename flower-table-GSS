@@ -397,6 +397,13 @@ html:not(.blogapp) #block-selector-button-custom-table:before {
         margin: 0
     }
 
+.s2 table-cell table-cell-1 td img {
+width: 100%;
+height: 100%;
+margin: 0 auto;
+}
+
+
     .custom-table-block[data-mobile-styles=true] tbody td img,
     .custom-table-block[data-mobile-styles=stacked] tbody td img,
     .custom-table-block[data-mobile-styles=horizontScroll] tbody td img {
