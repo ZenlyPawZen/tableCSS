@@ -493,7 +493,7 @@ object-fit: contain;
     }
 */
 
-    .custom-table-block[data-mobile-styles=horizontScroll] tbody td img {
+    .custom-table-block[data-mobile-styles=horizontScroll] /* tbody td */ img {
         display: table-cell;
         display: flex;
         align-self: stretch;
