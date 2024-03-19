@@ -267,7 +267,7 @@ html:not(.blogapp) #block-selector-button-custom-table:before {
 .table-mobile-controls {
     display: none;
     margin: 10px;
-    padding: 10px;
+    padding: 0px;
     text-align: center;
     overflow: hidden
 }
