@@ -393,7 +393,7 @@ html:not(.blogapp) #block-selector-button-custom-table:before {
         vertical-align: middle;
         padding: 0px;
         display: table-cell;
-        width: 50%;
+        width: 100%;
         margin: 0px
     }
 
