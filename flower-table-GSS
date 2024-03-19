@@ -483,13 +483,15 @@ object-fit: contain;
         border-left-width: 0
     }
 
-    .custom-table-block[data-mobile-styles=horizontScroll] tbody td {
+/*  
+.custom-table-block[data-mobile-styles=horizontScroll] tbody td {
         display: table;
         display: flex;
         align-self: stretch;
         white-space: normal;
         padding: 0px;
     }
+*/
 
     .custom-table-block[data-mobile-styles=horizontScroll] tbody td img {
         display: table-cell;
