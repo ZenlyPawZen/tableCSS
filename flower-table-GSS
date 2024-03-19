@@ -491,6 +491,14 @@ object-fit: contain;
         padding: 0px;
     }
 
+    .custom-table-block[data-mobile-styles=horizontScroll] tbody td img {
+        display: table-cell;
+        display: flex;
+        align-self: stretch;
+        white-space: normal;
+        padding: 0px;
+    }
+
     .custom-table-block[data-mobile-styles=horizontScroll] tbody td:last-child {
         border-bottom-width: 0
     }
