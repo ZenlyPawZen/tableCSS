@@ -303,7 +303,7 @@ html:not(.blogapp) #block-selector-button-custom-table:before {
 }
 
 .table-mobile-controls .tr-digits {
-    margin: 2% 10%
+    margin: 2% 3%
 }
 
 .table-mobile-controls .next-tr {
