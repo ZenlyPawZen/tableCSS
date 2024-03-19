@@ -192,7 +192,7 @@ html:not(.blogapp) #block-selector-button-custom-table:before {
 }
 
 .custom-table-block[data-table-sort=true] .table-header-th:after {
-    content: '&#8597';
+    content: 'â†‘';
     display: inline-block;
     margin-left: 1px;
     vertical-align: baseline;
