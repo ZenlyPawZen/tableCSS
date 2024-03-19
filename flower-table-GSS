@@ -132,7 +132,7 @@ html:not(.blogapp) #block-selector-button-custom-table:before {
 }
 
 .custom-table-block img {
-    display: block;
+    
     width: 100%;
     object-fit: contain;
     height: 100%;
