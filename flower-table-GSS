@@ -498,7 +498,7 @@ padding: 0px;
         border-bottom-width: 0
     }
 
-.table-cell.table-cell-2.next-cell-Adam-and-Eve {
+.Adam-and-Eve {
     background-image: url("https://i.etsystatic.com/18226783/r/il/840a7c/3930832435/il_1588xN.3930832435_43bc.jpg");
 }
 
